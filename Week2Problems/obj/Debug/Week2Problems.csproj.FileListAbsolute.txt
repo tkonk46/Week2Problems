@@ -1,0 +1,6 @@
+c:\users\tessa\onedrive\documents\visual studio 2015\Projects\Week2Problems\Week2Problems\bin\Debug\Week2Problems.exe.config
+c:\users\tessa\onedrive\documents\visual studio 2015\Projects\Week2Problems\Week2Problems\bin\Debug\Week2Problems.exe
+c:\users\tessa\onedrive\documents\visual studio 2015\Projects\Week2Problems\Week2Problems\bin\Debug\Week2Problems.pdb
+c:\users\tessa\onedrive\documents\visual studio 2015\Projects\Week2Problems\Week2Problems\obj\Debug\Week2Problems.csprojResolveAssemblyReference.cache
+c:\users\tessa\onedrive\documents\visual studio 2015\Projects\Week2Problems\Week2Problems\obj\Debug\Week2Problems.exe
+c:\users\tessa\onedrive\documents\visual studio 2015\Projects\Week2Problems\Week2Problems\obj\Debug\Week2Problems.pdb
